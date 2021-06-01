@@ -35,6 +35,6 @@ tox==2.7.0
 tqdm==4.14.0
 twine==1.9.1
 typing==3.6.1
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==15.1.0
 wrapt==1.10.10
